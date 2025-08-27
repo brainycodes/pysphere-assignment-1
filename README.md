@@ -1,6 +1,6 @@
 # pysphere-assignment-1
 
-# Author: Zion Solomon
+## Author: Zion Solomon
 
 # Ohm's Law Calculator
 
@@ -25,3 +25,19 @@ where:
 ---
 
 ## Example
+
+Enter the current (in A): 3
+Enter the resistance (in ohms): 10
+The voltage is: 30 volts
+
+
+---
+
+## How to Run
+1. Make sure you have **Python installed**.  
+2. Clone or download this project.  
+3. Open a terminal in the project folder.  
+4. Run the program:
+
+```bash
+python ohms_law.py
